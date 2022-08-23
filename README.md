@@ -14,7 +14,6 @@
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
 
-#
 # Run Locally
 
 - Clone your forked repository
