@@ -8,7 +8,7 @@
 
 > Used Programming Language (C++) 
 
-<a href="https://www.w3schools.com/c++/"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height="50px"><a>
+<a href="https://www.w3schools.com/cpp/default.asp"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height="50px"><a>
     
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
