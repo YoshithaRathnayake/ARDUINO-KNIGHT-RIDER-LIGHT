@@ -1,5 +1,8 @@
 # <div align="center"><b><i>KNIGHT RIDER LIGHT</i></b></div>
-This is the Knight Rider Light that I created using Arduino Uno Board as My first Arduino Project
+
+> This is the Knight Rider Light that I created using Arduino Uno Board.
+
+> This is My First Arduino Project.
 
 
 
