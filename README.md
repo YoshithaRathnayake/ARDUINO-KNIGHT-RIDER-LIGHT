@@ -2,7 +2,7 @@
 
 > This is the <b><i>Knight Rider Light</i></b> that I created using <b><i>Arduino Uno Board</i></b>.
 
-> This is My First Arduino Project.
+> This is <b><i>My First Arduino Project</i></b>.
 
 
 
