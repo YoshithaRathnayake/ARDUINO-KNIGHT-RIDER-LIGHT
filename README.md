@@ -20,8 +20,8 @@
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/NEW-YOSHITHA-WEBSITE.git
-    cd NEW-YOSHITHA-WEBSITE
+    git clone https://github.com/USERNAME/ARDUINO-KNIGHT-RIDER-LIGHT.git
+    cd ARDUINO-KNIGHT-RIDER-LIGHT
     ```
 
 
